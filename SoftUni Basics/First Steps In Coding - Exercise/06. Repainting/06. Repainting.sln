@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Repainting", "06. Repainting\06. Repainting.csproj", "{660CC99B-FB4C-4DC9-9670-0C3FCEAC6EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660CC99B-FB4C-4DC9-9670-0C3FCEAC6EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660CC99B-FB4C-4DC9-9670-0C3FCEAC6EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660CC99B-FB4C-4DC9-9670-0C3FCEAC6EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660CC99B-FB4C-4DC9-9670-0C3FCEAC6EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D9AC98-4852-492B-A3F5-98CBF4A27AB9}
+	EndGlobalSection
+EndGlobal
