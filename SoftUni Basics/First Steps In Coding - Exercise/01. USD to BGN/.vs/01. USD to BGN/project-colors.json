@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eb594a2-b5a4-4f5f-8ef9-973d08280850": {
+      "ProjectGuid": "7eb594a2-b5a4-4f5f-8ef9-973d08280850",
+      "DisplayName": "01. USD to BGN",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
