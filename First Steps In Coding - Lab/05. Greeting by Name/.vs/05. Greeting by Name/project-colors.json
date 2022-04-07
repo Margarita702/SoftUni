@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f700231-232d-42ea-8e51-168f15b3c987": {
+      "ProjectGuid": "3f700231-232d-42ea-8e51-168f15b3c987",
+      "DisplayName": "05. Greeting by Name",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
