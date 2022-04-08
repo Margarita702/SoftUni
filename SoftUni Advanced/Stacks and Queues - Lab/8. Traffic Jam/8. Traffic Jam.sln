@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Traffic Jam", "8. Traffic Jam\8. Traffic Jam.csproj", "{E90987F0-3602-4168-BE22-CE7D688DC8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90987F0-3602-4168-BE22-CE7D688DC8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90987F0-3602-4168-BE22-CE7D688DC8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90987F0-3602-4168-BE22-CE7D688DC8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90987F0-3602-4168-BE22-CE7D688DC8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {078692AD-8708-4740-B414-5347249B1202}
+	EndGlobalSection
+EndGlobal

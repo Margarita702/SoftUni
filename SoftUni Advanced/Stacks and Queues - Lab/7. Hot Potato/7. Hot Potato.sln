@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Hot Potato", "7. Hot Potato\7. Hot Potato.csproj", "{B24FAD2F-B18D-4829-A317-58F9A5ACA029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24FAD2F-B18D-4829-A317-58F9A5ACA029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24FAD2F-B18D-4829-A317-58F9A5ACA029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24FAD2F-B18D-4829-A317-58F9A5ACA029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24FAD2F-B18D-4829-A317-58F9A5ACA029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6B9BCA-610C-450A-9682-6161BBFFE45D}
+	EndGlobalSection
+EndGlobal
