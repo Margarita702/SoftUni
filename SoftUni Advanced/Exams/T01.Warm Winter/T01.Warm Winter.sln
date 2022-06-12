@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.Warm Winter", "T01.Warm Winter\T01.Warm Winter.csproj", "{658DC74E-7E9E-4726-97EC-105D92C976BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658DC74E-7E9E-4726-97EC-105D92C976BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658DC74E-7E9E-4726-97EC-105D92C976BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658DC74E-7E9E-4726-97EC-105D92C976BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658DC74E-7E9E-4726-97EC-105D92C976BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B09B33-FD3D-4B8D-9C93-2DA7F620EC59}
+	EndGlobalSection
+EndGlobal
