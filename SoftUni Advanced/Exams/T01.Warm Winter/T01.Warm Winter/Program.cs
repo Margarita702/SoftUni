@@ -10,28 +10,25 @@ namespace T01.Warm_Winter
     {
         static void Main(string[] args)
         {
-            int[] hats = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int[] scarfs = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            var hat = new Stack<int>(Console.ReadLine().Split().Select(int.Parse));
+            var scarf = new Queue<int>(Console.ReadLine().Split().Select(int.Parse));
 
-            Stack<int> hat = new Stack<int>(scarfs);
-            Queue <int> scarf = new Queue<int>(hats);
-           
+            //int[] hats = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            //int[] scarfs = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            //  Queue <int> scarf = new Queue<int>(scarfs);
+            //  Stack<int> hat = new Stack<int>(hats);
             List<int> sets = new List<int>();
 
             while (hat.Any() && scarf.Any())
-            {         
-           
-                int hatt=hat.Peek();
-                int scarff = scarf.Peek();
-                if (hatt>scarff)
+            {
+                if (hat.Peek()>scarf.Peek())
                 {
-                    
-                    sets.Add(hatt+scarff);
+                    int value=hat.Peek()+scarf.Peek();
+                    sets.Add(value);
                     hat.Pop();
                     scarf.Dequeue();
-                   
                 }
-                else if (hatt < scarff)
+                else if (hat.Peek() < scarf.Peek())
                 {
                     hat.Pop();
                 }
