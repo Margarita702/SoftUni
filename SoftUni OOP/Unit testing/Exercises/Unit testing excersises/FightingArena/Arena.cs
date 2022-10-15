@@ -12,7 +12,7 @@ namespace FightingArena
         {
             this.warriors = new List<Warrior>();
         }
-
+         
         public IReadOnlyCollection<Warrior> Warriors =>
             this.warriors;
 

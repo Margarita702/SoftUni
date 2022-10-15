@@ -11,7 +11,7 @@ namespace ExtendedDatabase
 
         public Database(params Person[] persons)
         {
-            this.persons = new Person[16];
+            this.persons = new Person[16]; 
             AddRange(persons);
         }
 

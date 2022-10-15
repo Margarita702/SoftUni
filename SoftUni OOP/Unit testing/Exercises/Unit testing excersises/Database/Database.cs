@@ -18,7 +18,7 @@ namespace Database
             }
 
             this.count = data.Length;
-        }
+        } 
 
         public int Count
         {

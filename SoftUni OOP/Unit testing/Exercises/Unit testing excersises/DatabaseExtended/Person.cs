@@ -9,7 +9,7 @@
         {
             this.Id = id;
             this.UserName = userName;
-        }
+        } 
 
         public string UserName
         {

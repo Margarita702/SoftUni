@@ -9,7 +9,7 @@ namespace CarManager
         private string model;
 
         private double fuelConsumption;
-
+         
         private double fuelAmount;
 
         private double fuelCapacity;
